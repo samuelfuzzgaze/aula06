@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+ html {
+    font-family:"Montserrat", sans-serif;
+ h1 {
+    text-align: center;
+    margin-bottom: 24px;
+    margin-top: 2%;
+    background-color: red;
+    }
+
+    .container-img{
+        display: flex;
+        justify-content: center;
+    }
+
+    img{
+        border: 3px solid black;
+        border-radius: 24px;
+        margin-bottom: 40px;
+     }
+    
+
+
+
+}
